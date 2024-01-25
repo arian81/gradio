@@ -1,16 +1,23 @@
 # @gradio/atoms
 
+## 0.4.2
+
+### Patch Changes
+
+- Updated dependencies [[`5727b92`](https://github.com/gradio-app/gradio/commit/5727b92abc8a00a675bfc0a921b38de771af947b)]:
+  - @gradio/utils@0.2.1
+
 ## 0.4.1
 
 ### Fixes
 
-- [#6766](https://github.com/gradio-app/gradio/pull/6766) [`73268ee`](https://github.com/gradio-app/gradio/commit/73268ee2e39f23ebdd1e927cb49b8d79c4b9a144) - Improve source selection UX.  Thanks [@hannahblair](https://github.com/hannahblair)!
+- [#6766](https://github.com/gradio-app/gradio/pull/6766) [`73268ee`](https://github.com/gradio-app/gradio/commit/73268ee2e39f23ebdd1e927cb49b8d79c4b9a144) - Improve source selection UX. Thanks [@hannahblair](https://github.com/hannahblair)!
 
 ## 0.4.0
 
 ### Features
 
-- [#6569](https://github.com/gradio-app/gradio/pull/6569) [`4d1cbbc`](https://github.com/gradio-app/gradio/commit/4d1cbbcf30833ef1de2d2d2710c7492a379a9a00) - Allow passing height and width as string in `Blocks.svelte`.  Thanks [@hannahblair](https://github.com/hannahblair)!
+- [#6569](https://github.com/gradio-app/gradio/pull/6569) [`4d1cbbc`](https://github.com/gradio-app/gradio/commit/4d1cbbcf30833ef1de2d2d2710c7492a379a9a00) - Allow passing height and width as string in `Blocks.svelte`. Thanks [@hannahblair](https://github.com/hannahblair)!
 
 ## 0.3.1
 

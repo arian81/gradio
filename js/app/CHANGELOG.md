@@ -1,5 +1,15 @@
 # @gradio/app
 
+## 1.22.0
+
+### Features
+
+- [#7084](https://github.com/gradio-app/gradio/pull/7084) [`94aa271`](https://github.com/gradio-app/gradio/commit/94aa271ab11fc3426a7e143ebaa757eb30c9911d) - Improve rapid generation performance via UI throttling.  Thanks [@aliabid94](https://github.com/aliabid94)!
+
+### Fixes
+
+- [#7125](https://github.com/gradio-app/gradio/pull/7125) [`45f725f`](https://github.com/gradio-app/gradio/commit/45f725f8d0dc7813b3d2e768ca9582d6ad878d6f) - un-disable output components after exception is raised.  Thanks [@abidlabs](https://github.com/abidlabs)!
+
 ## 1.21.0
 
 ### Highlights

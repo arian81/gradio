@@ -1,5 +1,14 @@
 # @gradio/textbox
 
+## 0.4.8
+
+### Patch Changes
+
+- Updated dependencies [[`5727b92`](https://github.com/gradio-app/gradio/commit/5727b92abc8a00a675bfc0a921b38de771af947b)]:
+  - @gradio/utils@0.2.1
+  - @gradio/atoms@0.4.2
+  - @gradio/statustracker@0.4.4
+
 ## 0.4.7
 
 ### Patch Changes

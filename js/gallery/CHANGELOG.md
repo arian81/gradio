@@ -1,16 +1,28 @@
 # @gradio/gallery
 
+## 0.5.1
+
+### Patch Changes
+
+- Updated dependencies [[`5727b92`](https://github.com/gradio-app/gradio/commit/5727b92abc8a00a675bfc0a921b38de771af947b), [`bc2cdc1`](https://github.com/gradio-app/gradio/commit/bc2cdc1df95b38025486cf76df4a494b66d98585), [`be56c76`](https://github.com/gradio-app/gradio/commit/be56c76c7b5d2814ea8239c7dbeddc4b1d3701c4), [`8c355a4`](https://github.com/gradio-app/gradio/commit/8c355a47844296e3aab250fe61e2ecc706122e78)]:
+  - @gradio/utils@0.2.1
+  - @gradio/upload@0.7.0
+  - @gradio/wasm@0.5.1
+  - @gradio/atoms@0.4.2
+  - @gradio/image@0.7.1
+  - @gradio/statustracker@0.4.4
+
 ## 0.5.0
 
 ### Features
 
-- [#7024](https://github.com/gradio-app/gradio/pull/7024) [`f2d69fc`](https://github.com/gradio-app/gradio/commit/f2d69fc7d0c1c3457112e702b53e38a0255fc1b7) - Fix gallery thumbnail design regression.  Thanks [@hannahblair](https://github.com/hannahblair)!
+- [#7024](https://github.com/gradio-app/gradio/pull/7024) [`f2d69fc`](https://github.com/gradio-app/gradio/commit/f2d69fc7d0c1c3457112e702b53e38a0255fc1b7) - Fix gallery thumbnail design regression. Thanks [@hannahblair](https://github.com/hannahblair)!
 
 ## 0.4.17
 
 ### Fixes
 
-- [#6967](https://github.com/gradio-app/gradio/pull/6967) [`5e00162`](https://github.com/gradio-app/gradio/commit/5e0016267f1d683e2daab82ee4a33d2f09513a34) - Make <Gallery /> Wasm-compatible.  Thanks [@whitphx](https://github.com/whitphx)!
+- [#6967](https://github.com/gradio-app/gradio/pull/6967) [`5e00162`](https://github.com/gradio-app/gradio/commit/5e0016267f1d683e2daab82ee4a33d2f09513a34) - Make <Gallery /> Wasm-compatible. Thanks [@whitphx](https://github.com/whitphx)!
 
 ## 0.4.16
 
